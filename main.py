@@ -12,7 +12,7 @@ def make_int(str):
 
 file = open('price_name.txt', 'a')
 
-PATH =  '/home/zoro_/Pictures/chromedriver'
+PATH =  '/home/zoro_/Desktop/new/amzbot/chromedriver'
 driver = webdriver.Chrome(PATH)
 url = 'https://www.amazon.in/Lenovo-Windows-Graphics-Phantom-82B500BHIN/dp/B08GG8WCW7/ref=sr_1_4?keywords=legion+5&qid=1653715608&sprefix=legio%2Caps%2C723&sr=8-4'
 #print('--------------X---------X----------')
